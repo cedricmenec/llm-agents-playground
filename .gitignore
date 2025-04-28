@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Streamlit (caches, etc.)
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environnement
+.env
+.env.*
+*.env
+*.env.local
+*.env.production
+*.env.development
+
+# Logs
+*.log
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Credentials et fichiers sensibles
+secrets.yaml
+secrets.json
+credentials.json
+*.key
+*.pem
+*.crt
+
+# Docker (si tu l'utilises un jour)
+*.pid
+
+# Coverage / Test outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
