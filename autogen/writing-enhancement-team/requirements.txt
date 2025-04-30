@@ -1,0 +1,14 @@
+# https://pypi.org/project/python-dotenv/
+python-dotenv
+
+# https://pypi.org/project/streamlit/
+streamlit>=1.44.1
+
+# https://pypi.org/project/streamlit-chat/
+streamlit-chat>=0.1.1
+
+# https://pypi.org/project/autogen-agentchat/
+autogen-agentchat>=0.5.5
+
+# https://pypi.org/project/autogen-ext/
+autogen-ext[openai]
